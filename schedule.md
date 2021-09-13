@@ -32,7 +32,7 @@ projects:
   dashboard:  'Wednesday, April 28'
 
 
-pdf-root-url: 'https://github.com/DS4PS/cpp-529-spr-2021/raw/main/lectures/'
+pdf-root-url: 'https://github.com/watts-college/cpp-529-template/raw/main/lectures/'
 
 ---
 
