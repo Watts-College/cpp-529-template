@@ -5,13 +5,13 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              DS4PS
+title:              Watts-College
 description:        Community modeling course. 
 
 # Site subpath, e.g. /blog
-url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-529-spr-2021"
-course_url:         "http://ds4ps.org/cpp-529-spr-2021/"
+url :               "https://watts-college.github.io/"
+baseurl:            "/cpp-529-template"
+course_url:         "https://watts-college.github.io/cpp-529-template/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -55,10 +55,10 @@ author:
     github:     lecy   # Github username for avatar
 
 github_info:
-    username:          DS4PS # Github location of the course
+    username:          watts-college # Github location of the course
     branch:            master
-    website-repo:      cpp-529-spr-2021
-    course-repo:       cpp-529-spr-2021
+    website-repo:      cpp-529-template
+    course-repo:       cpp-529-template
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
