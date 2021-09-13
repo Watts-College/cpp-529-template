@@ -9,7 +9,7 @@ title:              Watts-College
 description:        Community modeling course. 
 
 # Site subpath, e.g. /blog
-url :               "https://watts-college.github.io/"
+url :               "https://watts-college.github.io"
 baseurl:            "/cpp-529-template"
 course_url:         "https://watts-college.github.io/cpp-529-template/"
 
