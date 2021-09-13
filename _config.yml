@@ -10,7 +10,7 @@ description:        Community modeling course.
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io/"
-baseurl:            "cpp-529-template"
+baseurl:            "/cpp-529-template"
 course_url:         "https://watts-college.github.io/cpp-529-template/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
