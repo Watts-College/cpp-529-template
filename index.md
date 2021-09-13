@@ -18,7 +18,7 @@ info:
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Asynchronous
- discussion_board_url: 'https://ds4ps.github.io/cpp-529-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-529-template/help/'
 
 instructor:
 -  name: Anthony Howell, PhD
