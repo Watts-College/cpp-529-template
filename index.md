@@ -21,9 +21,9 @@ info:
  discussion_board_url: 'https://watts-college.github.io/cpp-529-template/help/'
 
 instructor:
--  name: Anthony Howell, PhD
-   title: Professor
-   email: Anthony.Howell@asu.edu
+-  name: Jason Sills, MPA, MS PEDA
+   title: Faculty Associate
+   email: Jason.Sills@asu.edu
    office_location: Virtual 
    website_url: www.lecy.info
    github_url:  
@@ -33,6 +33,8 @@ instructor:
    office_hours_time: Flexible
    office_hours_location:  Zoom 
    office_hours_app_url:  ''
+   review_sessions_when: Thursday, 7:00pm AZ 
+   review_sessions_where: 'https://asu.zoom.us/j/5870336502'
    
   
 --- 
