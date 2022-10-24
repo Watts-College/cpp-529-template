@@ -559,7 +559,7 @@ Every 10 years, the U.S. Census Bureau conducts a census to determine the number
 
 The data collected by the decennial census are used to determine the number of seats each state has in the U.S. House of Representatives as well as used to inform federal spending and other important federal and state functions.  The task of the census is simple to state yet difficult to execute: count everyone once (no undercount), only once (no overcount), and in the right place (no location errors).
 
-> For your discussion topic this week, please read and provide general reflection based on the following  two articles [article 1](https://gcn.com/articles/2018/02/12/local-gov-correct-census-addresses.aspx) and [article 2](https://www.amacad.org/news/2020-census-unprecedented-challenges-their-implications).  Discuss also what are some of the challenges faced and new innovations adopted by federal and state governments to ensure an accurate census. 
+> For your discussion topic this week, please read and provide general reflection based on the following  two articles [article 1](https://gcn.com/data-analytics/2018/02/how-local-governments-ensure-an-accurate-census/277202/) and [article 2](https://www.amacad.org/news/2020-census-unprecedented-challenges-their-implications).  Discuss also what are some of the challenges faced and new innovations adopted by federal and state governments to ensure an accurate census. 
 
 Please post your reflection as a new pin on YellowDig:
 
